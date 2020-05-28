@@ -7,4 +7,4 @@ entry_points:
     parameters:
       convSize: {type: tuple, default: (3,3)}
       epochs: {type: int, default: 1000}
-    command: "python train_keras.py {batch_size} {epochs}"
+    command: "python train_keras.py {convSize} {epochs}"
