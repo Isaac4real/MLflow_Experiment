@@ -1,5 +1,0 @@
-mlflow
-scikit-learn
-pandas
-matplotlib
-xgboost
