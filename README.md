@@ -1,6 +1,4 @@
-
-
-#Machine Learning Lifecycle with MLflow
+## Machine Learning Lifecycle with MLflow
 ##### Learn MLflow the easiest way and right to the point!
 <img src="https://raw.githubusercontent.com/Isaac4real/MLflow_Experiment/master/Part1-%20MLflow%20Tracking/Images/MLflow.png" width="1000">
 
