@@ -1,8 +1,8 @@
-<img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="200">
+
 
 #Machine Learning Lifecycle with MLflow
 ##### Learn MLflow the easiest way and right to the point!
-<img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="200">
+<img src="https://raw.githubusercontent.com/Isaac4real/MLflow_Experiment/master/Part1-%20MLflow%20Tracking/Images/MLflow.png" width="1000">
 
 
 ### Motivation
@@ -37,4 +37,21 @@ step by step and the easiest way possible!
 -> Part 5: MLflow UI 101
 
 
+&nbsp;
 
+&nbsp;
+
+&nbsp; 
+
+&nbsp; 
+
+
+#####Credit:
+
+https://www.mlflow.org/docs/latest/index.html
+
+Jules S. Damji from Databricks:
+
+* https://github.com/dmatrix/mlflow-workshop-part-1#part-1-of-3
+
+* https://www.youtube.com/watch?v=x3cxvsUFVZA&list=RDCMUC3q8O3Bh2Le8Rj1-Q-_UUbA&index=9
