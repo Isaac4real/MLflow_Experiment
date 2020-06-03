@@ -19,20 +19,20 @@ step by step and the easiest way possible!
 
 * How to **register** and **deploy** your models;
 
-* How to use MLflow UI.
+* How to use **MLflow UI**.
 
 ### Content
--> Part 0: Why bother to start using MLflow?
+-> **Part 0**: Why bother to start using MLflow?
 
--> Part 1: Easy steps to start using MLflow tracking in your current model
+-> **Part 1**: Easy steps to start using MLflow tracking in your current model
 
--> Part 2: How to use MLflow module to containerize your projects and models
+-> **Part 2**: How to use MLflow module to containerize your projects and models
 
--> Part 3: How to Register and Deploy MLflow models
+-> **Part 3**: How to Register and Deploy MLflow models
 
--> Part 4: How to Register and Deploy MLflow models locally
+-> **Part 4**: How to Register and Deploy MLflow models locally
 
--> Part 5: MLflow UI 101
+-> **Part 5**: MLflow UI 101
 
 
 &nbsp;
@@ -44,7 +44,7 @@ step by step and the easiest way possible!
 &nbsp; 
 
 
-#####Credit:
+##### Credit:
 
 https://www.mlflow.org/docs/latest/index.html
 
