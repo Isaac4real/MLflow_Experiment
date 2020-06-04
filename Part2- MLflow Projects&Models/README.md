@@ -30,13 +30,13 @@ An MLflow Model is a standard format for packaging machine learning models that 
 
 ###### What's does a MLflow Model Look Like?
 
-<img src="https://raw.githubusercontent.com/Isaac4real/MLflow_Experiment/master/Part2-%20MLflow%20Projects%26Models/Images/MLproject_structure.png" height="200">
+<img src="https://raw.githubusercontent.com/Isaac4real/MLflow_Experiment/master/Part2-%20MLflow%20Projects%26Models/Images/ModelFolderStructure.png" height="200">
 
 &nbsp;
 
 &nbsp;
 ## Content
-1. Introduction to Databricks: upload notebook and create a cluster
-2. Analysis on a simple CNN classification model created using TensorFlow
-3. Easy steps to implement MLflow Tracking to this model
-4. Explore MLflow UI
+1. Introduction MLflow Projects module: API (command line and programmatically)
+2. Configure Databricks CLI to be able to run MLproject from GitHub
+3. Load and run the project form GitHub using `MLflow Fluent API` and `MLflow Project API`
+4. Explore MLflow UI: check for conda.yaml, MLproject file and metrics
