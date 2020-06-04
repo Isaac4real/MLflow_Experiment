@@ -22,15 +22,15 @@ step by step and the easiest way possible!
 * How to use **MLflow UI**.
 
 ### Content
--> **Part 1**: Why bother to start using MLflow?
+-> **[YouTube Series Intro]()**: Why bother to start using MLflow?
 
--> **Part 2**: Easy steps to start using MLflow tracking in your current model
+-> **[Part 1](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part1-%20MLflow%20Tracking)**: Easy steps to start using MLflow tracking in your current model
 
--> **Part 3**: How to use MLflow module to containerize your projects and models
+-> **[Part 2](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part2-%20MLflow%20Projects%26Models)**: How to use MLflow module to containerize your projects and models
 
--> **Part 4**: How to Register and Deploy MLflow models
+-> **[Part 3](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part3-%20MLflow%20Registry)**: How to Register and Deploy MLflow models
 
--> **Part 5**: How to Register and Deploy MLflow models locally
+-> **[Part 4](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part4-%20MLflow%20Registry_locally)**: How to Register and Deploy MLflow models locally
 
 -> **Part 6**: MLflow UI 101
 

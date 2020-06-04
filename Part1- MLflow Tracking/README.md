@@ -17,3 +17,10 @@ Tracking to a standard ML model.
 2. Analysis on a simple CNN classification model created using TensorFlow
 3. Easy steps to implement MLflow Tracking to this model
 4. Explore MLflow UI
+
+ Series  Part 1 of 4
+-----------
+Other parts:
+- [Part 2](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part2-%20MLflow%20Projects%26Models)
+- [Part 3](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part3-%20MLflow%20Registry)
+- [Part 4](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part4-%20MLflow%20Registry_locally)

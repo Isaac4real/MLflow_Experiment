@@ -40,3 +40,10 @@ An MLflow Model is a standard format for packaging machine learning models that 
 2. Configure Databricks CLI to be able to run MLproject from GitHub
 3. Load and run the project form GitHub using `MLflow Fluent API` and `MLflow Project API`
 4. Explore MLflow UI: check for conda.yaml, MLproject file and metrics
+
+ Series  Part 2 of 4
+-----------
+Other parts:
+- [Part 1](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part1-%20MLflow%20Tracking)
+- [Part 3](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part3-%20MLflow%20Registry)
+- [Part 4](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part4-%20MLflow%20Registry_locally)

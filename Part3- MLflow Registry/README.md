@@ -12,3 +12,11 @@ The goal of this lab to demonstrate how easy it is to register models with diffe
 5. Transition this model to `stagging`
 6. Compare both `stagging` and `production` models
 7. Transition the model from `stagging` to `production`
+
+
+ Series  Part 3 of 4
+-----------
+Other parts:
+- [Part 1](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part1-%20MLflow%20Tracking)
+- [Part 2](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part2-%20MLflow%20Projects%26Models)
+- [Part 4](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part4-%20MLflow%20Registry_locally)
