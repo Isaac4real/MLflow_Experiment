@@ -23,7 +23,7 @@ Lab 4 - Guidelines
 We'll use localhost (or your laptop) to run and register models with Model Registry, followed by
 deploying a "production" model as a REST endpoint locally.
 
-Stage 1 
+Stage 1 - Train and Track the model
 -------------------
 
 1. `python run_MNSITmodel.py`
@@ -34,10 +34,10 @@ Stage 1
    * Transition the best model into `Production`
    * Transition the second best model into `Staging`
 
-stage 2
+stage 2 - Deploy and make predictions
 -------------------
  
-Let's take our production model from from our Model Registry and [deploy and serve models](https://www.mlflow.org/docs/latest/models.html#deploy-mlflow-models) locally as a REST endpoint to a server launched by MLflow CLI. 
+Let's take our production model from our Model Registry and [deploy and serve models](https://www.mlflow.org/docs/latest/models.html#deploy-mlflow-models) locally as a REST endpoint to a server launched by MLflow CLI. 
 
 1. From the same directory run:
  * ```deploy_model.sh``` 
@@ -46,7 +46,7 @@ This launches a gunicorn server serving at the localhost `127.0.0.1:5000`. Now y
 on the deployed produciton model as a REST point.
  
 2. From another terminal send a POST request with our JSON payload
-  * ```make_predictions.sh``` or ```python make_predictions.py```
+  * ```python make_predictions.py```
 
  
 
