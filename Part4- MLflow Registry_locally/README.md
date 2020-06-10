@@ -40,7 +40,7 @@ stage 2 - Deploy and make predictions
 Let's take our production model from our Model Registry and [deploy and serve models](https://www.mlflow.org/docs/latest/models.html#deploy-mlflow-models) locally as a REST endpoint to a server launched by MLflow CLI. 
 
 1. From the same directory run:
- * ```deploy_model.sh``` 
+ * ```./deploy_model.sh``` 
  
 This launches a gunicorn server serving at the localhost `127.0.0.1:5000`. Now you can score locally
 on the deployed produciton model as a REST point.
